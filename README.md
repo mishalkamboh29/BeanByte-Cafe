@@ -11,6 +11,7 @@ Features such as dynamic data loading, image handling with Glide, and responsive
 
 Overall, BeanByte Café demonstrates the practical implementation of modern Android development concepts such as Kotlin, Firebase integration,
 ViewBinding, and RecyclerView, making it a complete and efficient solution for an online coffee ordering system.
+We also connect our project to Firebase.
 
 Screenshots:
 
